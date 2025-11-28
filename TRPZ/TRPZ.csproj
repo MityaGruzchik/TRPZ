@@ -13,4 +13,12 @@
     <PackageReference Include="Npgsql" Version="10.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include=".reports\Звіт до ЛР №2. Підковка ІА-31.pdf" />
+    <None Include=".reports\Звіт до ЛР №3. Підковка ІА-31.pdf" />
+    <None Include=".reports\Звіт до ЛР №4. Підковка ІА-31.pdf" />
+    <None Include=".reports\Звіт до ЛР №5. Підковка ІА-31.pdf" />
+    <None Include=".reports\Звіт до ЛР №6. Підковка ІА-31.pdf" />
+  </ItemGroup>
+
 </Project>
